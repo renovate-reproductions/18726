@@ -1,5 +1,7 @@
 {
   "vulnerabilityAlerts": {
-    "labels": ["security"]
+    "labels": ["security"],
+    "commitMessageSuffix": "[SECURITY]",
+    "prCreation": "immediate"
   }
 }
