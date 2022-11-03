@@ -1,4 +1,4 @@
-module github.com/MokkeMeguru/go-renovate-security-test
+module github.com/renovate-reproductions/18726
 
 go 1.19
 
