@@ -1,0 +1,11 @@
+{
+  "name": "go-renovate-security-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MokkeMeguru/go-renovate-security-test.git",
+  "author": "MokkeMeguru <meguru.mokke@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "d3-color": "2"
+  }
+}
